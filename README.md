@@ -32,3 +32,6 @@ Real-Time Engine: Socket.IO
 🚀 Getting Started
 This project demonstrates core real-time functionality and lays the groundwork for a full-featured collaborative coding platform — ideal for remote interviews, live coding sessions, or online code sharing.
 
+OUTPUT OF THE TASK:
+
+<img width="1920" height="1138" alt="Image" src="https://github.com/user-attachments/assets/875e9141-4ae9-46ae-940a-34d4fbb40d6a" />
