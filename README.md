@@ -37,5 +37,6 @@ OUTPUT OF THE TASK:
 <img width="1920" height="1138" alt="Image" src="https://github.com/user-attachments/assets/875e9141-4ae9-46ae-940a-34d4fbb40d6a" />
 
 
+After Join in Real time Collaborative code editor with Id and Name:
 
 <img width="1918" height="1131" alt="Image" src="https://github.com/user-attachments/assets/0b4da0eb-cd64-4127-b43a-b777e7cdceed" />
